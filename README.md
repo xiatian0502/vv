@@ -2,10 +2,10 @@
 
 1.地址
   
-      https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-      https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+      https://ghproxy.net/https://raw.githubusercontent.com/xiatian0502/vv/refs/heads/main/itvlist.m3u
+
   
-2.想自己获取电视直播地址的可采用以下方法：
+2.方法：
 
   windows电脑：
   
@@ -14,7 +14,7 @@
       1.3 首先运行itv.exe，完成后再运行itvtest.exe，
       1.4 运行完成后在当前目录下生成电视直播文件itvlist.txt。
   
-  有安装python的电脑：
+ python的电脑：
   
       2.1 电脑安装chrome，下载对应版本的chromedriver
       2.2 下载itv.py cctv.py weishi.py qita.py
@@ -22,7 +22,7 @@
       2.4 依次运行itv.py cctv.py weishi.py qita.py
       2.5 运行完成后在当前目录下生成电视直播文件itvlist.txt。
 
-3.在openwrt或群辉的docker运行：
+3.docker：
 
         1.安装：docker pull liuxipo/itvall:latest
         2.运行：docker run -v /www/itvall:/app itvall
