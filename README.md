@@ -1,11 +1,6 @@
-# 自动获取酒店源  组播源 #
-## 不再依赖chrome浏览器及fofa等网站，windows系统可直接运行itvall.exe文件，大概45分钟。 ##
 
-使用方法：
 
-1.电视盒子
-
-  在看电视直播软件中直接输入以下任一地址即可：
+1.地址
   
       https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
       https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
