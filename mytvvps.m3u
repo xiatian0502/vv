@@ -6,7 +6,7 @@ http://156.224.77.214:20000/live/fct4k/stream.m3u8
 http://156.224.77.214:20000/live/fhzw/stream.m3u8
 #EXTINF:-1 ,TVB PLUS
 http://156.224.77.214:20000/live/tvbp/stream.m3u8
-#EXTINF:-1 ,HOY TV
+#EXTINF:-1 tvg-name="HOY77",HOY TV
 http://156.224.77.214:20000/live/hoy/stream.m3u8
 #EXTINF:-1 ,澳视澳门
 http://156.224.77.214:20000/live/asam/stream.m3u8
@@ -114,3 +114,83 @@ http://156.224.77.214:20005/hls/live/33.m3u8?token=805729512310239
 http://156.224.77.214:20005/hls/live/34.m3u8?token=805729512310239
 #EXTINF:-1 tvg-name="RTHK35",CGTN English
 http://156.224.77.214:20005/hls/live/35.m3u8?token=805729512310239
+#EXTINF:-1 ,28 AI 智慧賽馬
+http://156.224.77.214:20008/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 ,Channel 8 HD
+http://156.224.77.214:20008/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 ,Channel U HD
+http://156.224.77.214:20008/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 ,myTV SUPER 18台
+http://156.224.77.214:20008/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="POPC",PopC
+http://156.224.77.214:20008/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 ,ROCK Action
+http://156.224.77.214:20008/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS",TVB Plus
+http://156.224.77.214:20008/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 ,tvN
+http://156.224.77.214:20008/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧经典台",千禧經典台(HK)
+http://156.224.77.214:20008/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 ,娛樂新聞台(HK)
+http://156.224.77.214:20008/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 ,明珠剧集台(北美)
+http://156.224.77.214:20008/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 ,明珠台
+http://156.224.77.214:20008/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻",無線新聞台
+http://156.224.77.214:20008/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亚电影",美亞電影台(HK)
+http://156.224.77.214:20008/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 ,翡翠剧集台(北美)
+http://156.224.77.214:20008/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台",翡翠台
+http://156.224.77.214:20008/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 ,翡翠综合台(北美)
+http://156.224.77.214:20008/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 ,靖天電影台
+http://156.224.77.214:20008/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰中文",鳳凰中文
+http://156.224.77.214:20008/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯",鳳凰資訊
+http://156.224.77.214:20008/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰香港",鳳凰香港
+http://156.224.77.214:20008/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 ,黃金翡翠台
+http://156.224.77.214:20008/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 ,龍華日韓台
+http://156.224.77.214:20008/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 ,龍華經典台
+http://156.224.77.214:20008/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 ,龍華電影台
+http://156.224.77.214:20008/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 ,AXN
+http://156.224.77.214:20008/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 ,Now星影台
+http://156.224.77.214:20008/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 ,Now爆谷台
+http://156.224.77.214:20008/AKTV/live/aktv2/now-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="VIUTV",viutv 99
+http://156.224.77.214:20008/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-name="VIUTV6",viutv6 96
+http://156.224.77.214:20008/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻",无线新闻台(北美)
+http://156.224.77.214:20008/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 ,Animax(HK)
+http://156.224.77.214:20008/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 ,Astro AEC
+http://156.224.77.214:20008/AKTV/live/aktv3/astroaec/AKTV.m3u8
+#EXTINF:-1 ,Astro iQIYI
+http://156.224.77.214:20008/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB星河",Astro Xing He
+http://156.224.77.214:20008/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+#EXTINF:-1 ,KIX
+http://156.224.77.214:20008/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 ,Love Nature HD
+http://156.224.77.214:20008/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 ,Thrill
+http://156.224.77.214:20008/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-name="东方卫视",東方衛視國際頻道
+http://156.224.77.214:20008/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台",翡翠台4K
+http://156.224.77.214:20008/AKTV/live/aktv3/4k/AKTV.m3u8
