@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="热门收视道”,台视
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="热门收视道”,中视
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="热门收视道”,华视
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="热门收视频道”,好消息
+http://192.168.2.113:50002/index.m3u8?pid=litv-ftv16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" 组标题= 《热门收视频道》、哆啦A梦台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="热门收视频道”,亚洲旅游台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="热门龙华戏剧台收视频道
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="热门收视道》，台湾戏剧台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="热门收视频道”,东森购物1台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="热门收视频道”,龙华偶像台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="热门收视频道”,龙华日韩台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="热门收视频道”,华视新闻
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="热门收视频道”,三立新闻iNEWS
+http://192.168.2.113:50002/index.m3u8?pid=iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="热门收视频道”,寰宇财经台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="热门收视频道”,台视新闻
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="热门收视频道”,中视新闻
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="热门收视频道”,中天新闻台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="热门收视频道”,寰宇新闻台湾台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="热门收视频道”,寰宇新闻台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="热门收视频道”,龙华经典台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="热门龙华电影台收视频道
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="热门收视频道”，去有风的地方
+http://192.168.2.113:50002/index.m3u8?pid=ofiii116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="热门收视频道”,综艺玩得很大
+http://192.168.2.113:50002/index.m3u8?pid=ofiii130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="热门收视道》,全民星攻略
+http://192.168.2.113:50002/index.m3u8?pid=ofiii131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="新闻‧财经》,Yes娱乐
+http://192.168.2.113:50002/index.m3u8?pid=ofiii47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" 组标题= 《新闻‧财经》,穷尽新闻
+http://192.168.2.113:50002/index.m3u8?pid=ofiii50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png" group-title="新闻‧财经》,柯文哲政治风波
+http://192.168.2.113:50002/index.m3u8?pid=ofiii51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="新闻‧财经》,华视新闻
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新闻‧财经”,倪珍播新闻
+http://192.168.2.113:50002/index.m3u8?pid=nnews-zh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="新闻‧财经”,三立新闻iNEWS
+http://192.168.2.113:50002/index.m3u8?pid=iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="新闻‧财经》,国际大小事
+http://192.168.2.113:50002/index.m3u8?pid=ofiii55
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="新闻‧财经》,寰宇财经台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3561_ofiii58_tv_20241202.png" group-title="新闻‧财经》,台湾骄傲！停止
+http://192.168.2.113:50002/index.m3u8?pid=ofiii58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="新闻‧财经》、台视新闻
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="新闻‧财经》、中视新闻
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="新闻‧财经》，中天新闻台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="新闻‧财经》，寰宇新闻台湾台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="新闻‧财经》，寰宇新闻台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="新闻‧财经》,第1财经
+http://192.168.2.113:50002/index.m3u8?pid=ofiii64
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="新闻‧财经》,第1商业台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png" group-title="新闻‧财经”，国会频道1台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png" group-title="新闻‧财经”，国会频道2台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新闻‧财经”,倪珍英语新闻
+http://192.168.2.113:50002/index.m3u8?pid=nnews-en
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="新闻‧财经》、大新闻大爆卦
+http://192.168.2.113:50002/index.m3u8?pid=ofiii201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="新闻‧财经》,新闻大白话
+http://192.168.2.113:50002/index.m3u8?pid=ofiii202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="新闻‧财经》，文茜的世界周报
+http://192.168.2.113:50002/index.m3u8?pid=ofiii203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="新闻‧财经》，寰宇全视界
+http://192.168.2.113:50002/index.m3u8?pid=ofiii204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="新闻‧财经》，文茜的世界财经周报
+http://192.168.2.113:50002/index.m3u8?pid=ofiii205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="新闻‧财经》、环球战争线
+http://192.168.2.113:50002/index.m3u8?pid=ofiii206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="新闻‧财经》、少康战情室
+http://192.168.2.113:50002/index.m3u8?pid=ofiii207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="新闻‧财经》，国民大会
+http://192.168.2.113:50002/index.m3u8?pid=ofiii208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="综合”,台视
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="综合”,中视
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="综合”,华视
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="综合”,好消息2台
+http://192.168.2.113:50002/index.m3u8?pid=litv-ftv17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="综合”,好消息
+http://192.168.2.113:50002/index.m3u8?pid=litv-ftv16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="综合”,ELTV生活英语台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="综合”,亚洲旅游台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="综合”,中天亚洲精采台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="综合”,智能知识台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="综合”,东森购物1台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" group-title="综合”,东森购物2台
+http://192.168.2.113:50002/index.m3u8?pid=4gtv-4gtv103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="综合”,聚焦探索新知台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii82
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="综合",乡民大学问
+http://192.168.2.113:50002/index.m3u8?pid=ofiii83
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="综合“，社会现在什么
+http://192.168.2.113:50002/index.m3u8?pid=ofiii85
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="综合”,倪珍报星座
+http://192.168.2.113:50002/index.m3u8?pid=ofiii86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png" group-title="综合,《锦绣安宁》预告花絮
+http://192.168.2.113:50002/index.m3u8?pid=ofiii88
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="综合”,泰可爱旋风
+http://192.168.2.113:50002/index.m3u8?pid=ofiii89
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="综合”,演唱会直击
+http://192.168.2.113:50002/index.m3u8?pid=ofiii91
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png" group-title="综合",健康问良医
+http://192.168.2.113:50002/index.m3u8?pid=ofiii92
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="综合”,弗里曼@台湾
+http://192.168.2.113:50002/index.m3u8?pid=ofiii95
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="综合”,饕客揪爱吃
+http://192.168.2.113:50002/index.m3u8?pid=ofiii96
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="综合", 人气预告动画
+http://192.168.2.113:50002/index.m3u8?pid=ofiii97
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="综合”,银发聚乐部
+http://192.168.2.113:50002/index.m3u8?pid=ofiii99
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="综合”,生命的赢家
+http://192.168.2.113:50002/index.m3u8?pid=ofiii192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="综合“，电动车时代
+http://192.168.2.113:50002/index.m3u8?pid=ofiii215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="综合”,SiCAR爱车酷
+http://192.168.2.113:50002/index.m3u8?pid=ofiii216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="综合”,狂人日志
+http://192.168.2.113:50002/index.m3u8?pid=ofiii217
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png" group-title="综合”，脖子解说脖子先生
+http://192.168.2.113:50002/index.m3u8?pid=ofiii218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png" group-title="综合”, 迪亚压雷雨声
+http://192.168.2.113:50002/index.m3u8?pid=ofiii250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="综合",疗愈下雨声
+http://192.168.2.113:50002/index.m3u8?pid=ofiii251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="综合”,放松的爵士午后
+http://192.168.2.113:50002/index.m3u8?pid=ofiii252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="综合”,野外烧柴火声
+http://192.168.2.113:50002/index.m3u8?pid=ofiii253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="综合”,阳光夏日海浪声
+http://192.168.2.113:50002/index.m3u8?pid=ofiii254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" 组标题= 《电影》,哆啦A梦台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="电影”,龙华经典台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="电影",金强片台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii70
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="电影”,龙华电影台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="电影”,周星驰台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii73
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="电影”,欧飞电影台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii74
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="电影”,欧飞喜剧电影台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii75
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="戏剧”,公视金奖台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="戏剧”,经典剧情
+http://192.168.2.113:50002/index.m3u8?pid=ofiii38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="戏剧”,龙华戏剧台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="戏剧”,台湾戏剧台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="戏剧”,龙华偶像台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="戏剧”,龙华日韩台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" 组标题= 《戏剧》,Focus风采戏剧台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii1048
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png" group-title="戏剧”,锦绣安宁
+http://192.168.2.113:50002/index.m3u8?pid=ofiii100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" group-title="戏剧”,琅琊榜
+http://192.168.2.113:50002/index.m3u8?pid=ofiii101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png" group-title="戏剧”、扶摇
+http://192.168.2.113:50002/index.m3u8?pid=ofiii102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png" group-title="戏剧”,三国
+http://192.168.2.113:50002/index.m3u8?pid=ofiii103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png" group-title="戏剧”,武媚娘传奇
+http://192.168.2.113:50002/index.m3u8?pid=ofiii104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png" group-title="戏剧”,长乐曲
+http://192.168.2.113:50002/index.m3u8?pid=ofiii105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png" group-title="戏剧”,军师联盟
+http://192.168.2.113:50002/index.m3u8?pid=ofiii106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png" group-title="戏剧”,军师联盟2虎啸龙吟
+http://192.168.2.113:50002/index.m3u8?pid=ofiii107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png" group-title="戏剧”,东宫(完整版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3112_ofiii109_tv_20231019.png" group-title="戏剧”，锦衣下面
+http://192.168.2.113:50002/index.m3u8?pid=ofiii109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png" group-title="戏剧”,楚乔传
+http://192.168.2.113:50002/index.m3u8?pid=ofiii110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png" group-title="戏剧》,倚天屠龙记2019
+http://192.168.2.113:50002/index.m3u8?pid=ofiii111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png" group-title="戏剧”,披荆斩棘的大小姐
+http://192.168.2.113:50002/index.m3u8?pid=ofiii112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png" group-title="戏剧”,步步惊心
+http://192.168.2.113:50002/index.m3u8?pid=ofiii113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3512_ofiii120_tv_20241104.png" group-title="戏剧”,漠风吟
+http://192.168.2.113:50002/index.m3u8?pid=ofiii114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png" group-title="戏剧”,私藏浪漫
+http://192.168.2.113:50002/index.m3u8?pid=ofiii115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="戏剧”,去有风的地方
+http://192.168.2.113:50002/index.m3u8?pid=ofiii116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png" group-title="戏剧”，以爱为营
+http://192.168.2.113:50002/index.m3u8?pid=ofiii117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png" group-title="戏剧”、向风而行
+http://192.168.2.113:50002/index.m3u8?pid=ofiii118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png" group-title="戏剧",以家人之名
+http://192.168.2.113:50002/index.m3u8?pid=ofiii119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png" group-title="戏剧”,猎狐
+http://192.168.2.113:50002/index.m3u8?pid=ofiii120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png" group-title="戏剧“，请叫我总监
+http://192.168.2.113:50002/index.m3u8?pid=ofiii122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3513_ofiii123_tv_20241104.png" group-title="戏剧”,司藤
+http://192.168.2.113:50002/index.m3u8?pid=ofiii123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3477_ofiii124_tv_20240930.png" group-title="戏剧“，他们的美好时光
+http://192.168.2.113:50002/index.m3u8?pid=ofiii124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20241104.png" group-title="戏剧”,白雪公主非死不可
+http://192.168.2.113:50002/index.m3u8?pid=ofiii146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20241104.png" group-title="戏剧”，好搭档
+http://192.168.2.113:50002/index.m3u8?pid=ofiii147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii148_tv_20230515.png" group-title="戏剧”,头痛共助
+http://192.168.2.113:50002/index.m3u8?pid=ofiii148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20241104.png" group-title="戏剧”，凌晨两点的灰姑娘
+http://192.168.2.113:50002/index.m3u8?pid=ofiii149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_litv-vchannel146_tv_20240626.png" 组标题=台湾灵异事件“戏剧”
+http://192.168.2.113:50002/index.m3u8?pid=ofiii150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20240131.png" group-title="戏剧》,包青天1993版
+http://192.168.2.113:50002/index.m3u8?pid=ofiii151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20230823.png" group-title="戏剧“，我的婆婆怎么那么可爱
+http://192.168.2.113:50002/index.m3u8?pid=ofiii152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20230823.png" group-title="戏剧”,村里来了一个暴走女手术
+http://192.168.2.113:50002/index.m3u8?pid=ofiii153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20230920.png" group-title="戏剧”,一把青
+http://192.168.2.113:50002/index.m3u8?pid=ofiii154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_litv-vchannel142_tv_20231019.png" 组标题= 《戏剧》、茶金
+http://192.168.2.113:50002/index.m3u8?pid=ofiii155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20240930.png" group-title="戏剧”,苦力
+http://192.168.2.113:50002/index.m3u8?pid=ofiii156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20240531.png" group-title="戏剧”,俗女养成记
+http://192.168.2.113:50002/index.m3u8?pid=ofiii157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20240802.png" group-title="戏剧”, 麻醉风暴
+http://192.168.2.113:50002/index.m3u8?pid=ofiii158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="综艺",TVBS食尚玩家
+http://192.168.2.113:50002/index.m3u8?pid=ofiii31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="综艺”,东森娱乐台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="综艺",乡民大学问
+http://192.168.2.113:50002/index.m3u8?pid=ofiii83
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png" group-title="综艺”,野球名人房
+http://192.168.2.113:50002/index.m3u8?pid=ofiii84
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="综艺“，社会现在什么
+http://192.168.2.113:50002/index.m3u8?pid=ofiii85
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="综艺”,倪珍报星座
+http://192.168.2.113:50002/index.m3u8?pid=ofiii86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20240531.png" group-title="综艺”,猪哥壹级棒
+http://192.168.2.113:50002/index.m3u8?pid=ofiii126
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3357_ofiii127_tv_20240531.png" group-title="综艺”,小明星大跟班
+http://192.168.2.113:50002/index.m3u8?pid=ofiii127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="综艺",WTO姐妹会
+http://192.168.2.113:50002/index.m3u8?pid=ofiii129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="综艺”,综艺玩很大
+http://192.168.2.113:50002/index.m3u8?pid=ofiii130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="综艺”,全民星攻略
+http://192.168.2.113:50002/index.m3u8?pid=ofiii131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii133_tv_20230329.png" group-title="综艺”,台湾启示录
+http://192.168.2.113:50002/index.m3u8?pid=ofiii133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="综艺",法眼黑与白
+http://192.168.2.113:50002/index.m3u8?pid=ofiii134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="综艺”,天才冲冲
+http://192.168.2.113:50002/index.m3u8?pid=ofiii135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="综艺“，女人我最大
+http://192.168.2.113:50002/index.m3u8?pid=ofiii137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20231213.png" group-title="综艺”,一字千金
+http://192.168.2.113:50002/index.m3u8?pid=ofiii142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="综艺”,11点热食店
+http://192.168.2.113:50002/index.m3u8?pid=ofiii143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png" group-title="综艺",食尚玩家-Hello腹饿代
+http://192.168.2.113:50002/index.m3u8?pid=ofiii225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20241211.png" group-title="综艺",食尚玩家-天菜就酱吃
+http://192.168.2.113:50002/index.m3u8?pid=ofiii226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20241202.png" group-title="综艺",食尚玩家-2天1夜go
+http://192.168.2.113:50002/index.m3u8?pid=ofiii227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20241202.png" group-title="综艺",食尚玩家-热血48小时
+http://192.168.2.113:50002/index.m3u8?pid=ofiii228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3556_ofiii229_tv_20241202.png" group-title="综艺",食尚玩家-鱼肉乡民
+http://192.168.2.113:50002/index.m3u8?pid=ofiii229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3557_ofiii230_tv_20241202.png" group-title="综艺”,食尚玩家-疯狂总部
+http://192.168.2.113:50002/index.m3u8?pid=ofiii230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20241202.png" group-title="综艺”,非凡大探索
+http://192.168.2.113:50002/index.m3u8?pid=ofiii234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20241202.png" group-title="综艺”,台湾1001个故事
+http://192.168.2.113:50002/index.m3u8?pid=ofiii235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png" group-title="综艺”,詹姆士出走料理
+http://192.168.2.113:50002/index.m3u8?pid=ofiii236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png" group-title="综艺”，进击的台湾
+http://192.168.2.113:50002/index.m3u8?pid=ofiii237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png" group-title="综艺”,世界第一等
+http://192.168.2.113:50002/index.m3u8?pid=ofiii238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png" group-title="综艺”,台湾第一等
+http://192.168.2.113:50002/index.m3u8?pid=ofiii239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png" group-title="综艺”、溢游未尽
+http://192.168.2.113:50002/index.m3u8?pid=ofiii240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="卡通‧儿童》,ELTV生活英语台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png" group-title="卡通‧儿童》、龙华卡通台
+http://192.168.2.113:50002/index.m3u8?pid=litv-longturn01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" 组标题= 《卡通‧儿童》、哆啦A梦台
+http://192.168.2.113:50002/index.m3u8?pid=ofiii22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="卡通‧儿童》,新哆啦A梦(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="动漫”,新哆啦A梦(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫“，虽然等级只有1级但本质上技能是最强的
+http://192.168.2.113:50002/index.m3u8?pid=ofiii159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”，拥有超常技能的异世界流浪美食家
+http://192.168.2.113:50002/index.m3u8?pid=ofiii160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”,WIND BREAKER—防风少年—
+http://192.168.2.113:50002/index.m3u8?pid=ofiii161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫》，在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
+http://192.168.2.113:50002/index.m3u8?pid=ofiii162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”,第一神拳
+http://192.168.2.113:50002/index.m3u8?pid=ofiii163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",刀剑神域(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",蜡笔小新(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”，我们这个家
+http://192.168.2.113:50002/index.m3u8?pid=ofiii166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",猎人(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",中华一番(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”,队长小翼(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",SPY X FAMILY 间谍家家酒
+http://192.168.2.113:50002/index.m3u8?pid=ofiii170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",SPY X FAMILY 间谍家家酒(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”,无职转生，到了异世界就讲述真本事
+http://192.168.2.113:50002/index.m3u8?pid=ofiii172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫“，关于我转生变成史莱姆这档事（国）
+http://192.168.2.113:50002/index.m3u8?pid=ofiii173
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",夏友目帐
+http://192.168.2.113:50002/index.m3u8?pid=ofiii174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",家庭教师HITMAN REBORN!(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii175
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”,烘焙王(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”,钢之链金术师
+http://192.168.2.113:50002/index.m3u8?pid=ofiii177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫“,JOJO的奇妙冒险
+http://192.168.2.113:50002/index.m3u8?pid=ofiii178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫“，葬送的芙莉莲
+http://192.168.2.113:50002/index.m3u8?pid=ofiii179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫”, 史上最强弟子一(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫",爆漫王(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="动漫", 忍者乱太郎(中文版)
+http://192.168.2.113:50002/index.m3u8?pid=ofiii182
